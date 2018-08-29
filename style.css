@@ -1,0 +1,196 @@
+.home
+{
+	background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("pic.JPEG");
+    background-size: cover;
+    background-position: center;
+}
+
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
+
+.main-nav li.active a
+{
+	border: 1px solid white;
+
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid white;
+
+}
+
+ .hom
+ {
+ 	padding-top: 300px;
+ 	padding-left: 500px;
+ 	float: right;
+ 	font-size: 70px;
+ 	color: darkgrey;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	font-family:sans-serif;
+ }
+
+ .about
+ {
+ 	background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)),url("pic2.jpg");
+ 	background-size: cover;
+ 	 	background-position: center;
+ 	height:1000px;
+ 	color: white;
+ 	margin: 0;
+
+
+}
+
+#he
+{
+	font-size: 50px;
+	font-family: sans-serif;
+	float: left;
+	color: white;
+	height: 60px;
+	width: 100%;
+}
+
+
+ #para
+ {
+    color: white;
+ 	float: left;
+ 	font-size: 22px;
+ 	font-family: sans-serif;
+ 	text-align: justify;
+ 	padding-right: 300px;
+ 	line-height: 40px;	
+ 	margin-left: 20px;
+ }
+
+ #photo
+ {
+ 	float: top;
+ 	float: right;
+ 	
+ }
+
+ #resume
+ {
+ 	background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.4)),url("green.jpg");
+ 	background-position: center;
+ 	height: 1400px;
+	background-size: fill;
+ }
+ #cs
+ {
+ 	font-size: 35px;
+ 	color: black;
+
+ }
+  #ac
+ {
+ 	font-size: 35px;
+ 	color: black;
+
+ }
+ #ED
+ {
+ 	font-size: 25px;
+ 	line-height: 18px;
+ 	color: white;
+ }
+ #WE
+ {
+ 	font-size: 25px;
+ 	line-height: 18px;
+ 	color: white;
+ }
+ #SK
+ {
+ 	font-size: 25px;
+ 	line-height: 18px;
+ 	color: white;
+ }
+ #A
+ {
+ 	font-size: 25px;
+ 	line-height: 18px;
+ 	color: white;
+ }
+
+ .con
+ {
+ 	font-size: 50px;
+ 	text-align: center;
+ 	margin-top: 200px;
+ }
+
+ .name
+ {
+ 	font-size: 25px;
+ 	text-align: center;
+ 	
+
+ }
+#contact
+{
+	background-image: url("pic0.jpg");
+	color: white;
+}
+ .st
+ {
+ 	padding-left: 570px;
+ }
+  .ss
+ {
+ 	padding-left: 70px;
+ }
+
+ .tt
+ {
+ 	padding-left: 50px;
+ }
+.mail
+{
+	font-size: 20px;
+ 	text-align: center;
+}
+
+
+ <!...aside
+ {
+ 	float: right;
+ 	float: top;
+ 	width: 50px;
+ 	height: 50px;
+ 	padding: 20px;
+ 	background: #ccc;
+ }
+article
+{
+
+	height: 100%;
+	width: 70%;
+	background: #ccc;
+}..>
+
+
+
