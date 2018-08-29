@@ -1,4 +1,5 @@
 # Commutatus
+# SRM Institute of science and Technology
 # Second Round Assignment
 
 Software Used:  HTML, CSS
@@ -14,6 +15,6 @@ Software Used:  HTML, CSS
 # I had uploaded the snapshots of the website.
 
 
-# Navaneethan P
-  RA1511003030070
-  navaneethan_p@srmuniv.edu.in
+#  Navaneethan P
+#  RA1511003030070
+#  navaneethan_p@srmuniv.edu.in
